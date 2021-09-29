@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T10:36:50.870Z" agent="5.0 (Windows)" etag="TstyVoq4IJ05nV0m8vqB" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T10:38:16.984Z" agent="5.0 (Windows)" etag="tpALQ_EjinO2pegRjAmK" version="14.9.3" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -97,6 +97,18 @@
         </mxCell>
         <mxCell id="o_iO7d6TlXx-ixrJT5Zg-27" value="&lt;div&gt;&lt;b&gt;«extern»&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Subsistem Notificari E-mail&lt;br&gt;&lt;/div&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="590" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o_iO7d6TlXx-ixrJT5Zg-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;startFill=0;" edge="1" parent="1" source="o_iO7d6TlXx-ixrJT5Zg-32" target="39150e848f15840c-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o_iO7d6TlXx-ixrJT5Zg-32" value="Utilizator sistem" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="750" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o_iO7d6TlXx-ixrJT5Zg-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.7;entryDx=0;entryDy=0;startArrow=none;startFill=0;exitX=0.187;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="o_iO7d6TlXx-ixrJT5Zg-35" target="39150e848f15840c-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o_iO7d6TlXx-ixrJT5Zg-35" value="&lt;div&gt;&lt;b&gt;«sistem»&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Printec eHermes Agent&lt;/div&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="50" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
