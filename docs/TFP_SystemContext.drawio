@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T09:53:43.414Z" agent="5.0 (Windows)" version="14.9.3" etag="fgBTbBREWtZZQjlzwHvJ" type="github"><diagram id="o2FnIWs4xHlIDf4EBAea">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-29T10:07:48.437Z" agent="5.0 (Windows)" etag="DVPFeVdQ1ysVWivc-EPI" version="14.9.3" type="github">
+  <diagram id="o2FnIWs4xHlIDf4EBAea" name="Page-1">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VoLfxy6x43G467jJYEZ4-9" value="Expediere notificari" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VoLfxy6x43G467jJYEZ4-1" target="VoLfxy6x43G467jJYEZ4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VoLfxy6x43G467jJYEZ4-1" value="&lt;div&gt;&lt;b&gt;«sistem»&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Printec eHermes Server&lt;/div&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="300" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VoLfxy6x43G467jJYEZ4-10" value="Flux evenimente" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VoLfxy6x43G467jJYEZ4-2" target="VoLfxy6x43G467jJYEZ4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VoLfxy6x43G467jJYEZ4-2" value="&lt;div&gt;&lt;b&gt;«sistem»&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Printec eHermes Agent&lt;/div&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VoLfxy6x43G467jJYEZ4-8" value="Gestionare sistem" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VoLfxy6x43G467jJYEZ4-3" target="VoLfxy6x43G467jJYEZ4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VoLfxy6x43G467jJYEZ4-3" value="&lt;div&gt;Administrator&lt;/div&gt;&lt;div&gt; sistem&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VoLfxy6x43G467jJYEZ4-7" value="&lt;div&gt;Inregistrare operatiuni alimentare&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VoLfxy6x43G467jJYEZ4-4" target="VoLfxy6x43G467jJYEZ4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VoLfxy6x43G467jJYEZ4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="VoLfxy6x43G467jJYEZ4-4" target="VoLfxy6x43G467jJYEZ4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VoLfxy6x43G467jJYEZ4-4" value="&lt;div&gt;Agent realimentare&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VoLfxy6x43G467jJYEZ4-6" value="&lt;div&gt;&lt;b&gt;«extern»&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Subsistem Notificari E-mail&lt;br&gt;&lt;/div&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="300" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VoLfxy6x43G467jJYEZ4-14" value="Colectare evenimente" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VoLfxy6x43G467jJYEZ4-12" target="VoLfxy6x43G467jJYEZ4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VoLfxy6x43G467jJYEZ4-12" value="&lt;div&gt;&lt;b&gt;«extern»&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Componenta HW Telemetrie&lt;/div&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="450" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VoLfxy6x43G467jJYEZ4-16" value="Interceptare evenimente MDB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VoLfxy6x43G467jJYEZ4-15" target="VoLfxy6x43G467jJYEZ4-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VoLfxy6x43G467jJYEZ4-15" value="&lt;div&gt;&lt;b&gt;«extern»&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Automat vanzare&lt;br&gt;&lt;/div&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="580" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VoLfxy6x43G467jJYEZ4-18" value="&lt;div&gt;Raportare&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="VoLfxy6x43G467jJYEZ4-17" target="VoLfxy6x43G467jJYEZ4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VoLfxy6x43G467jJYEZ4-17" value="Client tert" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
